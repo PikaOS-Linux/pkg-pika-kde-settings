@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/pikaos/Downloads/pika-sources_4.0-99pika3_all.deb" added="2023-03-24T17:55:36.026217Z" modified="2023-03-24T17:56:51.626000Z" visited="2023-03-24T17:56:51.626000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-03-24T17:55:36.026234Z" count="1"/>
+        <bookmark:application name="" exec="dolphin %u" modified="2023-03-24T17:56:51.626000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.config" added="2023-03-24T18:09:39.431000Z" modified="2023-03-24T18:09:39.431000Z" visited="2023-03-24T18:09:39.431000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-03-24T18:09:39.431000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.local" added="2023-03-24T18:09:39.449000Z" modified="2023-03-24T18:09:39.449000Z" visited="2023-03-24T18:09:39.449000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-03-24T18:09:39.449000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.mozilla" added="2023-03-24T18:09:39.480000Z" modified="2023-03-24T18:09:39.480000Z" visited="2023-03-24T18:09:39.480000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-03-24T18:09:39.480000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/Desktop" added="2023-03-24T18:09:39.494000Z" modified="2023-03-24T18:09:39.494000Z" visited="2023-03-24T18:09:39.494000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-03-24T18:09:39.494000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/Downloads" added="2023-03-24T18:09:39.529000Z" modified="2023-03-24T18:09:39.529000Z" visited="2023-03-24T18:09:39.529000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-03-24T18:09:39.529000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/Templates" added="2023-03-24T18:09:39.535000Z" modified="2023-03-24T18:09:39.535000Z" visited="2023-03-24T18:09:39.535000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-03-24T18:09:39.535000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.cache" added="2023-03-24T18:09:39.562000Z" modified="2023-03-24T18:09:39.562000Z" visited="2023-03-24T18:09:39.562000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-03-24T18:09:39.562000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.bash_history" added="2023-03-24T18:09:39.571000Z" modified="2023-03-24T18:09:43.784000Z" visited="2023-03-24T18:09:43.784000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-03-24T18:09:43.784000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.bash_logout" added="2023-03-24T18:09:39.586000Z" modified="2023-03-24T18:09:43.788000Z" visited="2023-03-24T18:09:43.788000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-03-24T18:09:43.788000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.bashrc" added="2023-03-24T18:09:39.596000Z" modified="2023-03-24T18:09:43.798000Z" visited="2023-03-24T18:09:43.798000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-03-24T18:09:43.798000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.gtkrc-2.0" added="2023-03-24T18:09:39.597000Z" modified="2023-03-24T18:09:43.804000Z" visited="2023-03-24T18:09:43.804000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-03-24T18:09:43.804000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.profile" added="2023-03-24T18:09:39.606000Z" modified="2023-03-24T18:09:43.829000Z" visited="2023-03-24T18:09:43.829000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-03-24T18:09:43.829000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.xsession-errors" added="2023-03-24T18:09:39.607000Z" modified="2023-03-24T18:09:43.833000Z" visited="2023-03-24T18:09:43.833000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2023-03-24T18:09:43.833000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pikaos/.fonts.conf" added="2023-03-24T18:09:39.647000Z" modified="2023-03-24T18:09:39.647000Z" visited="2023-03-24T18:09:39.647000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2023-03-24T18:09:39.647000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
