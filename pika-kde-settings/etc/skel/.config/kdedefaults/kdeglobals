@@ -137,13 +137,17 @@ ForegroundVisited=0,188,212
 
 [General]
 ColorSchemeHash=78952f1103f6f2c59b78c6ed5fa382c3f5ec18e7
-LastUsedCustomAccentColor=232,203,45
 XftAntialias=true
 XftHintStyle=hintfull
 XftSubPixel=rgb
+fixed=Fira Mono,11,-1,5,50,0,0,0,0,0
+font=Fira Sans Book,10,-1,5,29,0,0,0,0,0,Regular
+menuFont=Fira Sans Book,10,-1,5,29,0,0,0,0,0,Regular
+smallestReadableFont=Roboto Slab,8,-1,5,50,0,0,0,0,0
+toolBarFont=Fira Sans Book,10,-1,5,29,0,0,0,0,0,Regular
 
 [Icons]
-Theme=Papirus
+Theme=Papirus-Dark
 
 [KDE]
 LookAndFeelPackage=com.github.vinceliuice.Orchis-dark
@@ -152,7 +156,7 @@ widgetStyle=kvantum-dark
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
@@ -172,6 +176,7 @@ View Style=DetailTree
 [WM]
 activeBackground=40,40,40
 activeBlend=40,40,40
+activeFont=Fira Sans ExtraBold,10,-1,5,81,0,0,0,0,0,Regular
 activeForeground=223,223,223
 inactiveBackground=50,50,50
 inactiveBlend=50,50,50

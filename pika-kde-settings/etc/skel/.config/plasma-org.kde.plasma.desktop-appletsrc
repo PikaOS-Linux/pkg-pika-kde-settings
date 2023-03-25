@@ -6,10 +6,10 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][1]
-ItemGeometries-1280x800=
+[Containments][64]
+ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
-activityId=f2e11536-f6eb-4640-a520-85a0603b3597
+activityId=8c47acb0-67ea-4f03-887c-bd6db7edfe6e
 formfactor=0
 immutability=1
 lastScreen=0
@@ -17,11 +17,15 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][1][ConfigDialog]
+[Containments][64][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
-[Containments][2]
+[Containments][64][Wallpaper][org.kde.image][General]
+Image=/usr/share/backgrounds/pika/can_i_come_in__by_neytirix_ddoss9c.jpg
+SlidePaths=/usr/share/plasma/wallpapers/,/usr/share/wallpapers/
+
+[Containments][65]
 activityId=
 formfactor=2
 immutability=1
@@ -30,61 +34,59 @@ location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
-[Containments][2][Applets][18]
-immutability=1
-plugin=org.kde.plasma.digitalclock
-
-[Containments][2][Applets][18][Configuration]
-PreloadWeight=55
-popupHeight=450
-popupWidth=396
-
-[Containments][2][Applets][19]
-immutability=1
-plugin=org.kde.plasma.showdesktop
-
-[Containments][2][Applets][3]
+[Containments][65][Applets][66]
 immutability=1
 plugin=org.kde.plasma.kickoff
 
-[Containments][2][Applets][3][Configuration]
+[Containments][65][Applets][66][Configuration]
 PreloadWeight=100
-popupHeight=510
+popupHeight=514
 popupWidth=677
 
-[Containments][2][Applets][3][Configuration][General]
+[Containments][65][Applets][66][Configuration][General]
 favoritesPortedToKAstats=true
 
-[Containments][2][Applets][3][Configuration][Shortcuts]
+[Containments][65][Applets][66][Configuration][Shortcuts]
 global=Alt+F1
 
-[Containments][2][Applets][4]
+[Containments][65][Applets][66][Shortcuts]
+global=Alt+F1
+
+[Containments][65][Applets][67]
 immutability=1
 plugin=org.kde.plasma.pager
 
-[Containments][2][Applets][5]
+[Containments][65][Applets][68]
 immutability=1
 plugin=org.kde.plasma.icontasks
 
-[Containments][2][Applets][5][Configuration][General]
-launchers=applications:systemsettings.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:pika-welcome-welcome.desktop,applications:mintinstall-kde.desktop,applications:mintupdate-kde.desktop
+[Containments][65][Applets][68][Configuration][General]
+launchers=applications:systemsettings.desktop,preferred://filemanager,preferred://browser,applications:mintinstall-kde.desktop,applications:org.kde.konsole.desktop,applications:mintupdate-kde.desktop,applications:pika-welcome-welcome.desktop,applications:repoman.desktop
 
-[Containments][2][Applets][6]
+[Containments][65][Applets][69]
 immutability=1
 plugin=org.kde.plasma.marginsseparator
 
-[Containments][2][Applets][7]
+[Containments][65][Applets][70]
 immutability=1
 plugin=org.kde.plasma.systemtray
 
-[Containments][2][Applets][7][Configuration]
+[Containments][65][Applets][70][Configuration]
 PreloadWeight=55
-SystrayContainmentId=8
+SystrayContainmentId=71
 
-[Containments][2][General]
-AppletOrder=3;4;5;6;7;18;19
+[Containments][65][Applets][81]
+immutability=1
+plugin=org.kde.plasma.digitalclock
 
-[Containments][8]
+[Containments][65][Applets][82]
+immutability=1
+plugin=org.kde.plasma.showdesktop
+
+[Containments][65][General]
+AppletOrder=66;67;68;69;70;81;82
+
+[Containments][71]
 activityId=
 formfactor=2
 immutability=1
@@ -93,51 +95,51 @@ location=4
 plugin=org.kde.plasma.private.systemtray
 wallpaperplugin=org.kde.image
 
-[Containments][8][Applets][10]
-immutability=1
-plugin=org.kde.plasma.clipboard
-
-[Containments][8][Applets][11]
-immutability=1
-plugin=org.kde.plasma.devicenotifier
-
-[Containments][8][Applets][12]
-immutability=1
-plugin=org.kde.plasma.keyboardlayout
-
-[Containments][8][Applets][13]
-immutability=1
-plugin=org.kde.plasma.manage-inputmethod
-
-[Containments][8][Applets][14]
-immutability=1
-plugin=org.kde.plasma.notifications
-
-[Containments][8][Applets][15]
-immutability=1
-plugin=org.kde.plasma.printmanager
-
-[Containments][8][Applets][16]
-immutability=1
-plugin=org.kde.plasma.vault
-
-[Containments][8][Applets][17]
-immutability=1
-plugin=org.kde.plasma.volume
-
-[Containments][8][Applets][20]
-immutability=1
-plugin=org.kde.plasma.battery
-
-[Containments][8][Applets][21]
-immutability=1
-plugin=org.kde.plasma.networkmanagement
-
-[Containments][8][Applets][9]
+[Containments][71][Applets][72]
 immutability=1
 plugin=org.kde.kdeconnect
 
-[Containments][8][General]
+[Containments][71][Applets][73]
+immutability=1
+plugin=org.kde.plasma.clipboard
+
+[Containments][71][Applets][74]
+immutability=1
+plugin=org.kde.plasma.devicenotifier
+
+[Containments][71][Applets][75]
+immutability=1
+plugin=org.kde.plasma.keyboardlayout
+
+[Containments][71][Applets][76]
+immutability=1
+plugin=org.kde.plasma.manage-inputmethod
+
+[Containments][71][Applets][77]
+immutability=1
+plugin=org.kde.plasma.notifications
+
+[Containments][71][Applets][78]
+immutability=1
+plugin=org.kde.plasma.printmanager
+
+[Containments][71][Applets][79]
+immutability=1
+plugin=org.kde.plasma.vault
+
+[Containments][71][Applets][80]
+immutability=1
+plugin=org.kde.plasma.volume
+
+[Containments][71][Applets][83]
+immutability=1
+plugin=org.kde.plasma.battery
+
+[Containments][71][Applets][84]
+immutability=1
+plugin=org.kde.plasma.networkmanagement
+
+[Containments][71][General]
 extraItems=org.kde.kdeconnect,org.kde.kupapplet,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.vault,org.kde.plasma.volume
 knownItems=org.kde.kdeconnect,org.kde.kupapplet,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.vault,org.kde.plasma.volume
 

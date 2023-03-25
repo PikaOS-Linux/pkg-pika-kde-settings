@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/pikaos/.cache/ibus/dbus-crhjGKCW,guid=a7ee234f3a1113ae570c2890641de248
-IBUS_DAEMON_PID=1727
+IBUS_ADDRESS=unix:abstract=/home/pikaos/.cache/ibus/dbus-bV4Lquiy,guid=b8e58eb103b559306f4ae272641eb617
+IBUS_DAEMON_PID=1733

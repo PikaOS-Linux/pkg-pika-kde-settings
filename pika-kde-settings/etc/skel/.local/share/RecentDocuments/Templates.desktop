@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=inode-directory
-Name=Templates
-Type=Link
-URL[$e]=file:$HOME/Templates
-X-KDE-LastOpenedWith=org.kde.dolphin
