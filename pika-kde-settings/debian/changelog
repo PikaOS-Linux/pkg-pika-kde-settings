@@ -1,9 +1,14 @@
-pika-kde-settings (3.8.0) kinetic; urgency=medium
+pika-kde-settings (3.8.0) lunar; urgency=medium
 
   * Pika-theme
 
  -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0300
 
+pika-kde-settings (3.8.0) kinetic; urgency=medium
+
+  * Pika-theme
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0300
 
 pika-kde-settings (3.4.0) kinetic; urgency=medium
 
