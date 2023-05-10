@@ -10,6 +10,7 @@ Package: pika-kde-settings
 Source: meta-kde
 Architecture: amd64
 Depends: breeze, pika-theme
+Conflicts: pika-settings
 Section: metapackages
 Priority: optional
 Homepage: https://www.kde.org
