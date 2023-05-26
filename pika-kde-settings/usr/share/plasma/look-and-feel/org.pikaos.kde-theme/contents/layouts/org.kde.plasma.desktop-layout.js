@@ -21,7 +21,7 @@ var layout = {
                 "/Wallpaper/org.kde.image/General": {
                     "Image": "/usr/share/backgrounds/pika/Wallpaper_PikaOS_Parrot_8K.png",
                     "PreviewImage": "",
-                    "SlidePaths": "/home/ward/.local/share/wallpapers/,/usr/share/wallpapers/"
+                    "SlidePaths": "/usr/share/wallpapers/"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
