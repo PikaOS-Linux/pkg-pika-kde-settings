@@ -149,8 +149,9 @@ toolBarFont=Fira Sans Book,10,-1,5,50,0,0,0,0,0
 Theme=Papirus
 
 [KDE]
-AnimationDurationFactor=0.35355339059327373
-LookAndFeelPackage=com.github.vinceliuice.Orchis-dark
+AnimationDurationFactor=0.25
+LookAndFeelPackage=org.pikaos.kde-theme
+ShowDeleteCommand=true
 SingleClick=false
 widgetStyle=kvantum-dark
 
