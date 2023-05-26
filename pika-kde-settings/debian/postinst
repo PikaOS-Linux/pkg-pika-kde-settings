@@ -2,6 +2,5 @@
 
 set -e
 
-cp /etc/skel/.config/examples/.profile /etc/skel/
 cp /usr/share/backgrounds/pika/Wallpaper_PikaOS_Parrot_8K.png /usr/share/sddm/themes/Orchis/
 cp /etc/skel/.config/examples/theme.conf.user /usr/share/sddm/themes/Orchis/
