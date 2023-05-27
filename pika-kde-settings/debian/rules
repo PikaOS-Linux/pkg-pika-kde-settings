@@ -1,3 +1,10 @@
 #! /usr/bin/make -f
+
+override_dh_install:
+	dh_install
+	mkdir -p debian/pika-kde-settings/usr/share/wallpapers/Pika/contents/images/
+	ln -s /usr/share/backgrounds/pika/Wallpaper_PikaOS_Parrot_8K.png debian/pika-kde-settings/usr/share/wallpapers/Pika/contents/images/7680x4320.png
+	ln -s /usr/share/backgrounds/pika/Wallpaper_PikaOS_Parrot_8K.png debian/pika-kde-settings/usr/share/wallpapers/Pika/contents/screenshot.png
+
 %:
 	dh $@

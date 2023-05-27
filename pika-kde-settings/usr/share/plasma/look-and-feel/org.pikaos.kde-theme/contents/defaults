@@ -1,11 +1,11 @@
 [kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+cursorTheme=Breeze_Snow
 
 [kdeglobals][General]
 ColorScheme=OrchisDark
 
 [kdeglobals][Icons]
-Theme=Papirus
+Theme=Papirus-Dark
 
 [kdeglobals][KDE]
 widgetStyle=kvantum-dark
@@ -18,7 +18,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Orchis-dark
+theme=__aurorae__svg__Orchis-dark_Nvidia
 
 [plasmarc][Theme]
 name=Orchis-dark

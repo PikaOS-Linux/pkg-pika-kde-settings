@@ -21,7 +21,7 @@ var layout = {
                 "/Wallpaper/org.kde.image/General": {
                     "Image": "/usr/share/backgrounds/pika/Wallpaper_PikaOS_Parrot_8K.png",
                     "PreviewImage": "",
-                    "SlidePaths": "/usr/share/wallpapers/"
+                    "SlidePaths": "/usr/share/wallpapers/,/usr/share/backgrounds/"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
@@ -35,7 +35,7 @@ var layout = {
                     "config": {
                         "/": {
                             "PreloadWeight": "100",
-                            "popupHeight": "506",
+                            "popupHeight": "502",
                             "popupWidth": "665"
                         },
                         "/General": {
@@ -87,13 +87,9 @@ var layout = {
                     "immutability": "1",
                     "lastScreen": "0",
                     "wallpaperplugin": "org.kde.image"
-                },
-                "/ConfigDialog": {
-                    "DialogHeight": "74",
-                    "DialogWidth": "1920"
                 }
             },
-            "height": 2.888888888888889,
+            "height": 2.4444444444444446,
             "hiding": "normal",
             "location": "bottom",
             "maximumLength": 106.66666666666667,
