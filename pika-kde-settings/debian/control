@@ -10,7 +10,8 @@ Package: pika-kde-settings
 Source: meta-kde
 Architecture: amd64
 Depends: breeze, pika-theme
-Conflicts: pika-settings
+Conflicts: pika-gnome-settings, pika-hyprland-settings, pika-settings, pika-gnome-layouts
+Provides: pika-settings
 Section: metapackages
 Priority: optional
 Homepage: https://www.kde.org
