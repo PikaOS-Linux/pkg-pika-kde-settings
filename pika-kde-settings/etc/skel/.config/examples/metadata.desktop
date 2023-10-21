@@ -19,8 +19,8 @@ saturation=1.7
 [Wallpaper]
 defaultWallpaperTheme=Pika
 defaultFileSuffix=.png
-defaultWidth=7680
-defaultHeight=4320
+defaultWidth=2560
+defaultHeight=1440
 
 [AdaptiveTransparency]
 enabled=true
