@@ -19,7 +19,7 @@ var layout = {
                     "DialogWidth": "680"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    "Image": "/usr/share/backgrounds/pika/Wallpaper_PikaOS_Parrot_8K.png",
+                    "Image": "/usr/share/backgrounds/pika/guard_it_well_okay__by_neytirix_ddcc1wt.jpg",
                     "PreviewImage": "",
                     "SlidePaths": "/usr/share/wallpapers/,/usr/share/backgrounds/"
                 }
