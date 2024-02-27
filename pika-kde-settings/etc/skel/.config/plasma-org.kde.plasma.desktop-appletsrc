@@ -64,7 +64,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][65][Applets][68][Configuration][General]
-launchers=applications:pika-welcome-welcome.desktop,applications:systemsettings.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:org.kde.kate.desktop,applications:update-manager.desktop,applications:mintinstall.desktop
+launchers=applications:com.github.pikaos-linux.pikawelcome.desktop,applications:org.kde.discover.desktop,applications:systemsettings.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:org.kde.kate.desktop
 
 [Containments][65][Applets][69]
 immutability=1
